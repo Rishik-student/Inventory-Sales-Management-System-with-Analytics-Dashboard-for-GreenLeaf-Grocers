@@ -1,0 +1,2 @@
+# Dependencies will be added as we reach each development step.
+# This keeps the initial setup lightweight.
